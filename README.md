@@ -2,7 +2,7 @@
 
 This is a program that I wrote to learn the basics of Android Studio and Koltin. This was my first attempt at coding in both Android Studio and Koltin. I created a very basic war card game. Two cards will be drawn every time the draw button is hit. Whichever player drew the higher card gains a point. If the cards are equal, it is a draw and no points are rewarded.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/LBwpMEMVAn8)
 
 # Development Environment
 
